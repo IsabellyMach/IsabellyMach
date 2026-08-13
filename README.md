@@ -27,7 +27,7 @@ Tenho interesse principalmente em **desenvolvimento Front-end, UX/UI Design e de
 ### Back-end & Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,python,mysql,oracle" />
 </p>
 
 ### Design & Produto
