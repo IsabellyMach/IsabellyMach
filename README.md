@@ -1,62 +1,100 @@
-# Isabelly Machado
+# 👋 Olá, eu sou a Isabelly!
 
-**`👷‍♀️ Designer Enginner em Construção `**
+### 💻 Estudante de Análise e Desenvolvimento de Sistemas | Front-end & Product Design
+
+---
+
+## 🧠 Sobre mim
+
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com formação técnica em **Informática para Internet pela ETEC**.
+
+Atuo na interseção entre **tecnologia, desenvolvimento e design de produtos digitais**, buscando transformar problemas em soluções funcionais, intuitivas e acessíveis.
+
+Tenho interesse principalmente em **desenvolvimento Front-end, UX/UI Design e desenvolvimento de produtos digitais**, conectando minha base técnica com minha experiência em design.
+
+🚀 Atualmente, estou buscando uma oportunidade para evoluir profissionalmente, contribuir em projetos reais e continuar construindo produtos digitais que gerem impacto.
+
+---
+
+## 💻 Tecnologias
+
+### Front-end
 
 <p>
-Prazer, eu sou a Isabelly! 
-<br/>
-Tenho 19 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia e sempre estou buscando aprofundar meus conhecimentos em desenvolvimento de software, com foco em tecnologias front-end, conectando essa base técnica com minha maior paixão: o design de produtos digitais.
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
+
+### Back-end & Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,java,spring,python,mysql,oracle" />
+</p>
+
+### Design & Produto
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+* UX/UI Design
+* UX Research
+* Design Systems
+* Prototipação
+* Arquitetura de Informação
+* Acessibilidade e WCAG
+* Design Thinking
+
+### Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+* Notion
+* Microsoft Excel
+* IA Generativa
+
+---
+
+## 🧩 Habilidades
+
+* Desenvolvimento Front-end
+* Design de Produtos Digitais
+* UX/UI Design
+* UX Research
+* Design Systems
+* Prototipação
+* Documentação de processos e funcionalidades
+* Metodologias Ágeis — Scrum e Kanban
+* Acessibilidade e usabilidade
+
+---
+
+## 🌱 Atualmente
+
+🔎 Buscando oportunidades de **estágio em Tecnologia, Front-end e Produtos Digitais**.
+
+📚 Aprofundando meus conhecimentos em desenvolvimento web, arquitetura de interfaces e construção de produtos digitais.
+
+🚀 Sempre buscando transformar ideias em experiências digitais melhores.
+
+---
+
+## 📫 Vamos conversar?
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariaisab3lly">
+    <img src="https://img.shields.io/badge/LinkedIn-Conecte--se%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mariaisabellysilvamachado@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Fale%20comigo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+<p align="center">
+  <i>Construindo produtos digitais unindo código, design e experiência do usuário.</i>
+</p>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+
