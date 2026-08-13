@@ -56,20 +56,6 @@ Tenho interesse principalmente em **desenvolvimento Front-end, UX/UI Design e de
 
 ---
 
-## 🧩 Habilidades
-
-* Desenvolvimento Front-end
-* Design de Produtos Digitais
-* UX/UI Design
-* UX Research
-* Design Systems
-* Prototipação
-* Documentação de processos e funcionalidades
-* Metodologias Ágeis — Scrum e Kanban
-* Acessibilidade e usabilidade
-
----
-
 ## 🌱 Atualmente
 
 🔎 Buscando oportunidades de **estágio em Tecnologia, Front-end e Produtos Digitais**.
