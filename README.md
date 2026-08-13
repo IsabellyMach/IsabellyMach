@@ -2,9 +2,12 @@
 
 **`👷‍♀️ Designer Enginner em Construção `**
 
+<p>
 Prazer, eu sou a Isabelly! 
 <br/>
 Tenho 19 anos e sou de São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática para internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP. Sou apaixonada por tecnologia e sempre estou buscando aprofundar meus conhecimentos em desenvolvimento de software, com foco em tecnologias front-end, conectando essa base técnica com minha maior paixão: o design de produtos digitais.
+</p>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
